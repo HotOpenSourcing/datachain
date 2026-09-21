@@ -104,7 +104,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -137,7 +136,6 @@ dmypy.json
 cython_debug/
 
 .idea/
-.vscode/
 .datachain/
 .dvcx/
 
@@ -151,3 +149,5 @@ cython_debug/
 local/
 docs/openapi.json
 docs/studio/api/index.md
+config.bat
+node_modules
